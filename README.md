@@ -3,14 +3,12 @@
 ![PwC Logo](https://github.com/Gtshivanand/PwC-Switzerland---Power-BI-Job-Simulation/blob/main/PwC-PricewaterhouseCoopers.jpg)
 
 This repository contains a comprehensive collection of Power BI projects completed as part of the **PwC Switzerland - Power BI Job Simulation** through [**Forage**](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg). This simulation provides hands-on experience in solving real-world business challenges such as customer retention, call center performance, and diversity & inclusion initiatives using Power BI.
+By participating in this simulation, I developed key competencies in:
 
-By completing these tasks, participants develop skills in:
-
-- Data visualization
-- Defining Key Performance Indicators (KPIs)
-- Data-driven decision making
-- Power BI dashboard creation
-- Analytical thinking
+- Data visualization and dashboard creation
+- Defining and analyzing Key Performance Indicators (KPIs)
+- Data-driven decision-making
+- Analytical thinking and storytelling with data
 
 The simulation is divided into three different very insightful projects:
 1. **Call Center Trends Analysis**: Visualizing customer satisfaction and agent performance.
@@ -133,30 +131,31 @@ This dashboard was developed to assist PhoneNow's Call Center Manager in trackin
 
 ## 👥 Task 3: Diversity & Inclusion Dashboard
 
-PwC Switzerland was tasked with analyzing gender diversity in executive management for a telecom client. This dashboard identifies trends and provides actionable recommendations to improve gender balance at higher organizational levels.
+PwC Switzerland has been tasked to assist a telecom client in advancing gender balance within their executive management. Despite efforts, progress is stagnant, prompting a need for our expertise in diversity and inclusion, which we regard as essential for business success and innovation. The goal is to transform the inclusive culture into tangible results, addressing the practical hurdles to truly harness the benefits of a diverse workforce.
 
 <img src="https://github.com/Gtshivanand/PwC-Switzerland---Power-BI-Job-Simulation/blob/main/Task%203/Images/Diversity%20%26%20Inclusive%20Analysis.png"/>
 <img  src="https://github.com/Gtshivanand/PwC-Switzerland---Power-BI-Job-Simulation/blob/main/Task%203/Images/Employee%20Overview.png"/>
 
 ### Key Insights:
 
-- **Representation Disparity:**
-  - Women represent **only 25%** of new hires at the executive level.
-  - Promotion rates for women decrease significantly beyond the **Manager** level.
+- *Representation Disparity:*
+  - Women represent *only 25%* of new hires at the executive level.
+  - Promotion rates for women decrease significantly beyond the *Manager* level.
 
-- **Root Causes Identified:**
-  - **Unconscious Bias**: Potential bias in hiring and promotion processes.
-  - **Pipeline Issues**: Limited qualified female candidates for senior roles.
-  - **Work-Life Balance**: Demanding roles may deter women from advancing.
-  - **Retention**: Higher attrition rates for women in senior positions.
+- *Root Causes Identified:*
+  - *Unconscious Bias*: Potential bias in hiring and promotion processes.
+  - *Pipeline Issues*: Limited qualified female candidates for senior roles.
+  - *Work-Life Balance*: Demanding roles may deter women from advancing.
+  - *Retention*: Higher attrition rates for women in senior positions.
 
 ### Recommendations:
 
-- Implement **bias training** to reduce unconscious bias in hiring and promotions.
-- Establish **mentorship programs** to support women in advancing to leadership roles.
-- Offer **flexible work arrangements** to improve work-life balance.
+- Implement *bias training* to reduce unconscious bias in hiring and promotions.
+- Establish *mentorship programs* to support women in advancing to leadership roles.
+- Offer *flexible work arrangements* to improve work-life balance.
 - Regularly review promotion criteria to ensure equity.
-- Conduct **exit interviews** to understand and address the reasons for attrition.
+- Conduct *exit interviews* to understand and address the reasons for attrition.
+
 
 ---
 
